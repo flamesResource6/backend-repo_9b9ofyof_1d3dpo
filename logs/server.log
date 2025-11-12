@@ -1,40 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [220] using StatReload
-INFO:     Started server process [222]
+INFO:     Started reloader process [276] using StatReload
+INFO:     Started server process [278]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:46238 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:46254 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46254 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46260 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46254 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43948 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43962 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43962 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43948 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43078 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43082 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43112 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43118 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43090 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43100 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43112 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43118 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59396 - "OPTIONS / HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59394 - "OPTIONS / HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59398 - "GET / HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59394 - "OPTIONS /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59398 - "GET / HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59396 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:59396 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41644 - "GET / HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41644 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41646 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41646 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58098 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41646 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58112 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58122 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58122 - "GET /restaurants HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58112 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45862 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:45866 - "GET /restaurants HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45866 - "GET /restaurants HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45870 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45866 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38306 - "GET /restaurants HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38320 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38306 - "GET /restaurants HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38320 - "GET /products HTTP/1.1" 200 OK
